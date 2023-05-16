@@ -1,0 +1,73 @@
+[
+    {
+      "CODPROV": "01",
+      "NOMBRE_PROVINCIA": "Araba/Álava",
+      "CODAUTON": "16",
+      "COMUNIDAD_CIUDAD_AUTONOMA": "País Vasco/Euskadi",
+      "CAPITAL_PROVINCIA": "Vitoria-Gasteiz"
+    },
+    {
+      "CODPROV": "02",
+      "NOMBRE_PROVINCIA": "Albacete",
+      "CODAUTON": "17",
+      "COMUNIDAD_CIUDAD_AUTONOMA": "Castilla-La Mancha",
+      "CAPITAL_PROVINCIA": "Albacete"
+    },
+    {
+      "CODPROV": "03",
+      "NOMBRE_PROVINCIA": "Alicante/Alacant",
+      "CODAUTON": "18",
+      "COMUNIDAD_CIUDAD_AUTONOMA": "Comunidad Valenciana",
+      "CAPITAL_PROVINCIA": "Alicante/Alacant"
+    },
+    {
+      "CODPROV": "04",
+      "NOMBRE_PROVINCIA": "Almería",
+      "CODAUTON": "01",
+      "COMUNIDAD_CIUDAD_AUTONOMA": "Andalucía",
+      "CAPITAL_PROVINCIA": "Almería"
+    },
+    {
+      "CODPROV": "05",
+      "NOMBRE_PROVINCIA": "Ávila",
+      "CODAUTON": "07",
+      "COMUNIDAD_CIUDAD_AUTONOMA": "Castilla y León",
+      "CAPITAL_PROVINCIA": "Ávila"
+    },
+    {
+      "CODPROV": "06",
+      "NOMBRE_PROVINCIA": "Badajoz",
+      "CODAUTON": "13",
+      "COMUNIDAD_CIUDAD_AUTONOMA": "Extremadura",
+      "CAPITAL_PROVINCIA": "Badajoz"
+    },
+    {
+      "CODPROV": "07",
+      "NOMBRE_PROVINCIA": "Illes Balears",
+      "CODAUTON": "04",
+      "COMUNIDAD_CIUDAD_AUTONOMA": "Islas Baleares",
+      "CAPITAL_PROVINCIA": "Palma de Mallorca"
+},
+{
+"CODPROV": "08",
+"NOMBRE_PROVINCIA": "Barcelona",
+"CODAUTON": "09",
+"COMUNIDAD_CIUDAD_AUTONOMA": "Cataluña",
+"CAPITAL_PROVINCIA": "Barcelona"
+},
+{
+"CODPROV": "09",
+"NOMBRE_PROVINCIA": "Burgos",
+"CODAUTON": "07",
+"COMUNIDAD_CIUDAD_AUTONOMA": "Castilla y León",
+"CAPITAL_PROVINCIA": "Burgos"
+},
+{
+"CODPROV": "10",
+"NOMBRE_PROVINCIA": "Cáceres",
+"CODAUTON": "13",
+"COMUNIDAD_CIUDAD_AUTONOMA": "Extremadura",
+"CAPITAL_PROVINCIA": "Cáceres"
+}
+]
+  

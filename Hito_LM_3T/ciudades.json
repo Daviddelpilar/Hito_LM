@@ -1,0 +1,131 @@
+[
+    {
+      "id": "08019",
+      "idProvince": "08",
+      "name": "Barcelona",
+      "nameProvince": "Barcelona",
+      "stateSky": {
+        "description": "Intervalos nubosos",
+        "id": "13"
+      },
+      "temperatures": {
+        "max": "23",
+        "min": "15"
+      }
+    },
+    {
+      "id": "28079",
+      "idProvince": "28",
+      "name": "Madrid",
+      "nameProvince": "Madrid",
+      "stateSky": {
+        "description": "Nubes altas",
+        "id": "17"
+      },
+      "temperatures": {
+        "max": "22",
+        "min": "8"
+      }
+    },
+    {
+      "id": "41091",
+      "idProvince": "41",
+      "name": "Sevilla",
+      "nameProvince": "Sevilla",
+      "stateSky": {
+        "description": "Nubes altas",
+        "id": "17"
+      },
+      "temperatures": {
+        "max": "31",
+        "min": "16"
+      }
+    },
+    {
+      "id": "46250",
+      "idProvince": "46",
+      "name": "València",
+      "nameProvince": "Valencia",
+      "stateSky": {
+        "description": "Despejado",
+        "id": "11"
+      },
+      "temperatures": {
+        "max": "25",
+        "min": "15"
+      }
+    },
+    {
+      "id": "48020",
+      "idProvince": "48",
+      "name": "Bilbao",
+      "nameProvince": "Bizkaia",
+      "stateSky": {
+        "description": "Nuboso con lluvia",
+        "id": "24"
+      },
+      "temperatures": {
+        "max": "17",
+        "min": "10"
+      }
+    },
+    {
+      "id": "15030",
+      "idProvince": "15",
+      "name": "Coruña, A",
+      "nameProvince": "A Coruña",
+      "stateSky": {
+        "description": "Nubes altas",
+        "id": "17"
+      },
+      "temperatures": {
+        "max": "19",
+        "min": "13"
+      }
+    },
+    {
+      "id": "33044",
+      "idProvince": "33",
+      "name": "Oviedo",
+      "nameProvince": "Asturias",
+      "stateSky": {
+        "description": "Intervalos nubosos",
+        "id": "13"
+    },
+    "temperatures": {
+        "max": "18",
+        "min": "12"
+        }
+        },
+        {
+        "id": "39075",
+        "idProvince": "39",
+        "name": "Santander",
+        "nameProvince": "Cantabria",
+        "stateSky": {
+        "description": "Nubes altas",
+        "id": "17"
+        },
+        "temperatures": {
+        "max": "19",
+        "min": "14"
+        }
+        },
+        {
+        "id": "46184",
+        "idProvince": "46",
+        "name": "Alicante/Alacant",
+        "nameProvince": "Alicante",
+        "stateSky": {
+        "description": "Despejado",
+        "id": "11"
+        },
+        "temperatures": {
+        "max": "26",
+        "min": "16"
+        }
+        }
+        ]
+        
+        
+  

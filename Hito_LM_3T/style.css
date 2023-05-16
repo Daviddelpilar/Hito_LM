@@ -1,0 +1,24 @@
+body {
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333333;
+}
+
+.weather-info {
+  margin-bottom: 20px;
+}
+
+.weather-info p {
+  margin: 0;
+}
+
+.weather-info .temperature {
+  font-weight: bold;
+}
+
+.weather-info .rain-probability {
+  color: #666666;
+}

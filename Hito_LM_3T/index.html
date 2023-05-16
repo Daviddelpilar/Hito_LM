@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Información del Tiempo</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <h1>Información del Tiempo</h1>
+
+  <h2>Previsión para hoy</h2>
+  <div id="hoy"></div>
+
+  <h2>Previsión para mañana</h2>
+  <div id="mañana"></div>
+
+  <h2>Información por provincia</h2>
+  <table id="provincias">
+    <thead>
+      <tr>
+        <th>Provincia</th>
+        <th>Comunidad Autónoma</th>
+        <th>Capital</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+    // Carga los datos del archivo hoy.json
+    fetch('hoy.json')
+      .then(response => response.json())
+      .then(data => {
+        document.getElementById('hoy').textContent = data.p[0];
+      });
+
+    // Carga los datos del archivo mañana.json
+    fetch('mañana.json')
+      .then(response => response.json())
+      .then(data => {
+        document.getElementById('mañana').textContent = data.p[0];
+      });
+
+    // Carga los datos del archivo provincias.json
+    fetch('provincias.json')
+      .then(response => response.json())
+      .then(data => {
+        const tableBody = document.querySelector('#provincias tbody');
+        data.forEach(provincia => {
+          const row = document.createElement('tr');
+          row.innerHTML = `
+            <td>${provincia.NOMBRE_PROVINCIA}</td>
+            <td>${provincia.COMUNIDAD_CIUDAD_AUTONOMA}</td>
+            <td>${provincia.CAPITAL_PROVINCIA}</td>
+          `;
+          tableBody.appendChild(row);
+        });
+      });
+  </script>
+</body>
+</html>
